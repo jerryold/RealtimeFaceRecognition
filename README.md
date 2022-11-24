@@ -46,7 +46,7 @@ results = face_recognition.compare_faces([biden_encoding], unknown_encoding)
 ```
 
 * 參考資料
-* https://github.com/ageitgey/face_recognition
+   *  https://github.com/ageitgey/face_recognition
 
 
 * Demo影片
